@@ -1,0 +1,12 @@
+Source: truenas-binaries
+Section: admin
+Priority: optional
+Maintainer: Vladimir Vinogradenko <vladimirv@ixsystems.com>
+Build-Depends: debhelper-compat (= 12), make, g++, wget
+Standards-Version: 4.4.0
+Homepage: http://www.truenas.com
+
+Package: truenas-binaries
+Architecture: amd64
+Description: TrueNAS binaries
+ TrueNAS third-party binaries.

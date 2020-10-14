@@ -1,0 +1,5 @@
+truenas-binaries (2020.10.14-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1)
+
+ -- Vladimir Vinogradenko <vladimirv@ixsystems.com>  Wed,  14 Oct 2020 12:30:00 +0200
