@@ -1,3 +1,9 @@
+truenas-binaries (2024.04.29-1) unstable; urgency=medium
+
+  * Add ChelsioUwire-3.19.0.1
+
+ -- Vladimir Vinogradenko <dev@ixsystems.com>  Mon, 29 Feb 2024 14:39:00 +0200
+
 truenas-binaries (2020.10.14-1) unstable; urgency=medium
 
   * Initial release (Closes: #1)
