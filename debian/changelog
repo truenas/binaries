@@ -1,3 +1,9 @@
+truenas-binaries (2024.12.16-1) unstable; urgency=medium
+
+  * Add {t5/t6}seeprom binaries from 3.19.0.3 Chelsio Uwire
+
+ -- Caleb St. John <dev@ixsystems.com>  Mon, 16 Dec 2024 08:00:00 -0500
+
 truenas-binaries (2024.07.16-1) unstable; urgency=medium
 
   * Add websocat-1.13.0
