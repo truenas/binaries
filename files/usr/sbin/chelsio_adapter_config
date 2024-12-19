@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+from middlewared.utils.rootfs import ReadonlyRootfsManager
+
+
+def main():
+    # chelsio_adapter_config.py script lives here
+    import sys
+    sys.path.insert(1, "/usr/local/libexec")
+    import chelsio_adapter_config
+
+    with ReadonlyRootfsManager(force_rw=True) as rrm:
+        rrm.make_writable()
+        chelsio_adapter_config.main()
+
+
+if __name__ == "__main__":
+    main()
