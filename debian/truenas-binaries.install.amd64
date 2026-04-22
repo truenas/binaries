@@ -1,0 +1,13 @@
+files/usr/lib/firmware/cxgb4/config/*              usr/lib/firmware/cxgb4/config/
+files/usr/local/libexec/chelsio_adapter_config.py  usr/local/libexec/
+files/usr/sbin/chelsio_adapter_config              usr/sbin/
+files/usr/share/OVMF/*                             usr/share/OVMF/
+files/amd64/usr/local/bin/sas2ircu                 usr/local/bin/
+files/amd64/usr/local/bin/sas3ircu                 usr/local/bin/
+files/amd64/usr/local/libexec/wsocat               usr/local/libexec/
+files/amd64/usr/local/sbin/sas2flash               usr/local/sbin/
+files/amd64/usr/local/sbin/sas3flash               usr/local/sbin/
+files/amd64/usr/local/sbin/storcli                 usr/local/sbin/
+files/amd64/usr/local/sbin/storcli2                usr/local/sbin/
+files/amd64/usr/sbin/t5seeprom                     usr/sbin/
+files/amd64/usr/sbin/t6seeprom                     usr/sbin/

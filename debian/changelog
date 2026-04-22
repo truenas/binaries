@@ -1,3 +1,13 @@
+truenas-binaries (2026.04.22-1) unstable; urgency=medium
+
+  * Produce per-architecture .debs for amd64 and arm64.
+  * Switch to debhelper per-arch .install files; drop override_dh_install.
+  * Add arm64 wsocat (websocat v1.13.0 aarch64-musl build).
+  * Refactor update_chelsio.py to populate both amd64 and arm64 seeprom
+    binaries from the same ChelsioUwire tarball on the next refresh.
+
+ -- TrueNAS Engineering <dev@ixsystems.com>  Wed, 22 Apr 2026 12:00:00 +0000
+
 truenas-binaries (2024.12.16-1) unstable; urgency=medium
 
   * Add {t5/t6}seeprom binaries from 3.19.0.3 Chelsio Uwire

@@ -1,0 +1,5 @@
+files/usr/lib/firmware/cxgb4/config/*              usr/lib/firmware/cxgb4/config/
+files/usr/local/libexec/chelsio_adapter_config.py  usr/local/libexec/
+files/usr/sbin/chelsio_adapter_config              usr/sbin/
+files/usr/share/OVMF/*                             usr/share/OVMF/
+files/arm64/usr/local/libexec/wsocat               usr/local/libexec/
