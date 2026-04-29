@@ -7,6 +7,6 @@ Standards-Version: 4.4.0
 Homepage: http://www.truenas.com
 
 Package: truenas-binaries
-Architecture: amd64
+Architecture: any
 Description: TrueNAS binaries
  TrueNAS third-party binaries.
